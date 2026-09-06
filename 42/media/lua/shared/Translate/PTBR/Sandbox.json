@@ -2,8 +2,8 @@
   "Sandbox_TheChosenOne": "O Escolhido",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Chance de Imunidade (%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Chance percentual de o jogador ser naturalmente imune à infecção Knox.",
-  "Sandbox_TheChosenOne_EnableKnoxFever": "Jogadores Imunes têm Febre do Knox",
-  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Se ativado, personagens imunes passam pela progressão da febre do Knox, mas se recuperam antes da zumbificação. Se desativado, o jogador imune não adoece.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "Jogadores Imunes Têm Febre do Knox",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Se ativado, personagens imunes passam pela progressão da febre do Knox, mas se recuperam antes da zumbificação. Se desativado, jogadores imunes não ficam doentes.",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Recuperação da Febre do Knox (%)",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Quando a febre do Knox estiver ativada, remove a infecção Knox somente quando a saúde do personagem atingir esta porcentagem."
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Quando a febre do Knox estiver ativada, remova a infecção Knox somente quando a saúde do personagem atingir esta porcentagem."
 }
