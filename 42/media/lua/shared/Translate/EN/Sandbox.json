@@ -1,5 +1,9 @@
 {
-  "TranslationKey": "Translation to the language",
-  "TranslationKey2": "Translation to the language"
- 
+  "Sandbox_TheChosenOne": "The Chosen One",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Knox Immunity Chance (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Percentage chance that a newly created character is naturally immune to the Knox infection.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "Immune Players Experience Knox Fever",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "If enabled, immune characters experience Knox infection progression until the infection's maximum-health cap reaches the configured recovery threshold.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Knox Fever Recovery Threshold (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "When Knox fever is enabled, clear the Knox infection when its infection-only maximum-health cap reaches this percentage."
 }

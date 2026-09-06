@@ -1,6 +1,5 @@
 local IMMUNITY_ROLLED_KEY = "TheChosenOneImmunityRolled"
 local IMMUNE_KEY = "TheChosenOneImmune"
-local KNOX_MAX_HEALTH_THRESHOLD = 2.0
 
 local function clearKnoxInfection(player, bodyDamage)
     local bodyParts = bodyDamage:getBodyParts()
@@ -31,7 +30,7 @@ local function rollImmunity(player)
         return
     end
 
-    local chance = SandboxVars.TheChosenOne.Chance_of_being_immune_in_percentage
+    local chance = SandboxVars.TheChosenOne.KnoxImmunityChancePercent
     chance = math.max(0, math.min(100, chance or 0))
 
     modData[IMMUNE_KEY] = ZombRand(100) < chance
@@ -61,8 +60,11 @@ local function onPlayerUpdate(player)
         return
     end
 
-    if SandboxVars.TheChosenOne.Have_fever then
-        if getKnoxMaxHealth(player) <= KNOX_MAX_HEALTH_THRESHOLD then
+    if SandboxVars.TheChosenOne.EnableKnoxFever then
+        local threshold = SandboxVars.TheChosenOne.KnoxMaxHealthThresholdPercent or 2
+        threshold = math.max(1, math.min(100, threshold))
+
+        if getKnoxMaxHealth(player) <= threshold then
             clearKnoxInfection(player, bodyDamage)
         end
         return
