@@ -1,0 +1,3 @@
+VERSION = 1,
+option TheChosenOne.Chance_of_being_immune_in_percentage { type = integer, min = 0, max = 100. default = 1, page = TheChosenOne, translation = TheChosenOne_Chance_of_being_immune_in_percentage, }
+option TheChosenOne.Have_fever { type = boolean, default = false, page = TheChosenOne, translation = TheChosenOne_Have_fever, }
