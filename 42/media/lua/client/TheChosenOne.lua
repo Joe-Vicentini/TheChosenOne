@@ -1,5 +1,6 @@
 local IMMUNITY_ROLLED_KEY = "TheChosenOneImmunityRolled"
 local IMMUNE_KEY = "TheChosenOneImmune"
+local KNOX_FEVER_COMPLETED_KEY = "TheChosenOneKnoxFeverCompleted"
 
 local function clearKnoxInfection(player, bodyDamage)
     local bodyParts = bodyDamage:getBodyParts()
@@ -71,11 +72,17 @@ local function onPlayerUpdate(player)
     end
 
     if SandboxVars.TheChosenOne.EnableKnoxFever then
+        if modData[KNOX_FEVER_COMPLETED_KEY] == true then
+            clearKnoxInfection(player, bodyDamage)
+            return
+        end
+
         local threshold = SandboxVars.TheChosenOne.KnoxMaxHealthThresholdPercent or 2
         threshold = math.max(1, math.min(100, threshold))
 
         if getKnoxMaxHealth(player) <= threshold then
             clearKnoxInfection(player, bodyDamage)
+            modData[KNOX_FEVER_COMPLETED_KEY] = true
         end
         return
     end
