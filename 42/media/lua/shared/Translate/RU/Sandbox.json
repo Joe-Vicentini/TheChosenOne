@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "Избранный",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Шанс Иммунитета (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Процентная вероятность того, что игрок имеет естественный иммунитет к инфекции Нокс.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "Игроки с Иммунитетом Испытывают Лихорадку Нокс",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Если включено, у персонажей с иммунитетом развивается лихорадка Нокс, но они выздоравливают до превращения в зомби. Если отключено, игроки с иммунитетом вообще не заболевают.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Выздоровление после Лихорадки Нокс (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Когда лихорадка Нокс включена, удаляйте инфекцию Нокс только тогда, когда здоровье персонажа достигнет этого процента."
+}

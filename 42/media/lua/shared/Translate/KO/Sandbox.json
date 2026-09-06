@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "선택받은 자",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "면역 확률 (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "플레이어가 선천적으로 녹스 감염에 면역일 확률입니다.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "면역 플레이어는 녹스 열병에 걸림",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "활성화하면 면역 캐릭터도 녹스 열병이 진행되지만 좀비화되기 전에 회복합니다. 비활성화하면 면역 플레이어는 전혀 아프지 않습니다.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "녹스 열병 회복 (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "녹스 열병이 활성화된 경우 캐릭터의 체력이 이 비율에 도달했을 때만 녹스 감염을 제거합니다."
+}

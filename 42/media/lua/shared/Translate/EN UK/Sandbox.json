@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "The Chosen One",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Immunity Chance (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Percentage chance that the player is naturally immune to the Knox infection.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "Immune Players Have Knox Fever",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "If enabled, immune characters experience Knox fever progression but recover before zombification. If disabled, immune players don't get sick at all.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Knox Fever Recovery (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "When Knox fever is enabled, clear the Knox infection only when the character's health reaches this percentage."
+}

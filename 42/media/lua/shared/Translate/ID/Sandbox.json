@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "Yang Terpilih",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Peluang Kekebalan (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Persentase peluang pemain secara alami kebal terhadap infeksi Knox.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "Pemain Kebal Mengalami Demam Knox",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Jika diaktifkan, karakter yang kebal mengalami perkembangan demam Knox, tetapi pulih sebelum menjadi zombi. Jika dinonaktifkan, pemain yang kebal tidak akan sakit sama sekali.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Pemulihan Demam Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Saat demam Knox diaktifkan, hapus infeksi Knox hanya ketika kesehatan karakter mencapai persentase ini."
+}

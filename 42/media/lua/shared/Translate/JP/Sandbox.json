@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "選ばれし者",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "免疫確率 (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "プレイヤーが生まれつきノックス感染症に対する免疫を持つ確率です。",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "免疫プレイヤーはノックス熱を発症",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "有効にすると、免疫を持つキャラクターはノックス熱が進行しますが、ゾンビ化する前に回復します。無効にすると、免疫を持つプレイヤーはまったく発病しません。",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "ノックス熱からの回復 (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "ノックス熱が有効な場合、キャラクターの体力がこの割合に達したときにのみノックス感染症を除去します。"
+}

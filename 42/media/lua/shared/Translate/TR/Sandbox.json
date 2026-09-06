@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "Seçilmiş Kişi",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Bağışıklık Şansı (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Oyuncunun Knox enfeksiyonuna karşı doğal olarak bağışık olma yüzdesi.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "Bağışık Oyuncular Knox Ateşi Geçirir",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Etkinleştirilirse, bağışık karakterlerde Knox ateşi ilerler ancak zombileşmeden önce iyileşirler. Devre dışı bırakılırsa, bağışık oyuncular hiç hastalanmaz.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Knox Ateşinden İyileşme (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Knox ateşi etkin olduğunda, Knox enfeksiyonunu yalnızca karakterin sağlığı bu yüzdeye ulaştığında temizleyin."
+}

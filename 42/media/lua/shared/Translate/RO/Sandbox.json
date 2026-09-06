@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "Alesul",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Șansă de Imunitate (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Șansa procentuală ca jucătorul să fie în mod natural imun la infecția Knox.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "Jucătorii Imuni Au Febră Knox",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Dacă este activată, personajele imune trec prin progresia febrei Knox, dar se recuperează înainte de zombificare. Dacă este dezactivată, jucătorii imuni nu se îmbolnăvesc deloc.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Recuperare după Febra Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Când febra Knox este activată, elimină infecția Knox numai când sănătatea personajului ajunge la acest procent."
+}

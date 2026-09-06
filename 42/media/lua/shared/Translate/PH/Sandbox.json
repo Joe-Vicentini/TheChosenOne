@@ -1,0 +1,9 @@
+{
+  "Sandbox_TheChosenOne": "Ang Hinirang",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Tsansa ng Imunidad (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Porsiyentong tsansa na likas na immune ang manlalaro sa impeksiyong Knox.",
+  "Sandbox_TheChosenOne_EnableKnoxFever": "May Lagnat na Knox ang mga Immune na Manlalaro",
+  "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Kapag naka-enable, dumaraan sa paglala ng lagnat na Knox ang mga immune na karakter ngunit gumagaling bago maging zombie. Kapag naka-disable, hindi talaga nagkakasakit ang mga immune na manlalaro.",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Pagbangon mula sa Lagnat na Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Kapag naka-enable ang lagnat na Knox, alisin lamang ang impeksiyong Knox kapag umabot sa porsiyentong ito ang kalusugan ng karakter."
+}
