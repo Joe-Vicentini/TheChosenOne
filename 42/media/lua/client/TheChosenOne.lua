@@ -1,8 +1,8 @@
 local IMMUNITY_ROLLED_KEY = "TheChosenOneImmunityRolled"
 local IMMUNE_KEY = "TheChosenOneImmune"
-local FEVER_HEALTH_THRESHOLD = 2.0
+local KNOX_MAX_HEALTH_THRESHOLD = 2.0
 
-local function clearKnoxInfection(bodyDamage)
+local function clearKnoxInfection(player, bodyDamage)
     local bodyParts = bodyDamage:getBodyParts()
 
     for i = 0, bodyParts:size() - 1 do
@@ -15,6 +15,14 @@ local function clearKnoxInfection(bodyDamage)
     bodyDamage:setInfected(false)
     bodyDamage:setInfectionTime(-1)
     bodyDamage:setInfectionMortalityDuration(-1)
+    player:getStats():reset(CharacterStat.ZOMBIE_INFECTION)
+end
+
+local function getKnoxMaxHealth(player)
+    local infectionProgress = player:getStats():get(CharacterStat.ZOMBIE_INFECTION) / 100.0
+    infectionProgress = math.max(0.0, math.min(1.0, infectionProgress))
+
+    return (1.0 - infectionProgress ^ 4) * 100.0
 end
 
 local function rollImmunity(player)
@@ -54,13 +62,13 @@ local function onPlayerUpdate(player)
     end
 
     if SandboxVars.TheChosenOne.Have_fever then
-        if bodyDamage:getOverallBodyHealth() <= FEVER_HEALTH_THRESHOLD then
-            clearKnoxInfection(bodyDamage)
+        if getKnoxMaxHealth(player) <= KNOX_MAX_HEALTH_THRESHOLD then
+            clearKnoxInfection(player, bodyDamage)
         end
         return
     end
 
-    clearKnoxInfection(bodyDamage)
+    clearKnoxInfection(player, bodyDamage)
 end
 
 Events.OnCreatePlayer.Add(onCreatePlayer)
