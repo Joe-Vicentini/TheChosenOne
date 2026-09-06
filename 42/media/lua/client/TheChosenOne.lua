@@ -33,8 +33,18 @@ local function rollImmunity(player)
     local chance = SandboxVars.TheChosenOne.KnoxImmunityChancePercent
     chance = math.max(0, math.min(100, chance or 0))
 
-    modData[IMMUNE_KEY] = ZombRand(100) < chance
+    local roll = ZombRand(100)
+    local isImmune = roll < chance
+
+    modData[IMMUNE_KEY] = isImmune
     modData[IMMUNITY_ROLLED_KEY] = true
+
+    print(string.format(
+        "[TheChosenOne] Knox immunity roll: %d/100 (chance: %d%%) -> %s",
+        roll + 1,
+        chance,
+        isImmune and "IMMUNE" or "NOT IMMUNE"
+    ))
 end
 
 local function onCreatePlayer(playerNum, player)
