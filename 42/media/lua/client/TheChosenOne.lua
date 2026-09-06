@@ -15,7 +15,6 @@ local function clearKnoxInfection(bodyDamage)
     bodyDamage:setInfected(false)
     bodyDamage:setInfectionTime(-1)
     bodyDamage:setInfectionMortalityDuration(-1)
-    bodyDamage:setInfectionLevel(0)
 end
 
 local function rollImmunity(player)
