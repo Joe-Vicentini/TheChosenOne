@@ -1,6 +1,6 @@
-# The Chosen One
+# The Chosen One?
 
-**The Chosen One** is a Project Zomboid Build 42 mod that gives each newly created character a configurable chance of being naturally immune to the Knox infection.
+**The Chosen One?** is a Project Zomboid Build 42 mod that gives each newly created character a configurable chance of being naturally immune to the Knox infection.
 
 ## Features
 
