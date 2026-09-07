@@ -1,6 +1,6 @@
 # The Chosen One?
 
-**The Chosen One?** adds a small (1% default), customizable chance for any new character to be unknownly immune to the zombie virus.
+**The Chosen One?** adds a small (1% default), customizable chance for any new character to be unknowingly immune to the zombie virus.
 
 Every time you roll a new character, they might be "the chosen one." Their DNA could be naturally immune to the virus, but they won't know for sure until they get bitten and realize they just... don't transform!
 
