@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "Väljavalitu",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Immuunsuse Tõenäosus (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Immuunsuse Tõenäosus (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Protsentuaalne tõenäosus, et mängija on loomupäraselt Knoxi nakkuse suhtes immuunne.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Immuunsetel Mängijatel Tekib Knoxi Palavik",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Kui see on lubatud, läbivad immuunsed tegelased Knoxi palaviku kulgemise, kuid paranevad enne zombistumist. Kui see on keelatud, ei jää immuunsed mängijad üldse haigeks.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Knoxi Palavikust Paranemine (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Knoxi Palavikust Paranemine (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Kui Knoxi palavik on lubatud, eemaldatakse Knoxi nakkus alles siis, kui tegelase tervis jõuab selle protsendini."
 }

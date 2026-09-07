@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "Den Udvalgte",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Chance for Immunitet (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Chance for Immunitet (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Procentvis chance for, at spilleren er naturligt immun over for Knox-infektionen.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Immune Spillere Får Knox-feber",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Når dette er aktiveret, oplever immune figurer udviklingen af Knox-feber, men kommer sig før zombificering. Når det er deaktiveret, bliver immune spillere slet ikke syge.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Helbredelse fra Knox-feber (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Helbredelse fra Knox-feber (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Når Knox-feber er aktiveret, fjernes Knox-infektionen først, når figurens helbred når denne procentdel."
 }

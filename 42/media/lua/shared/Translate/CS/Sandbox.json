@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "Vyvolený",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Šance na Imunitu (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Šance na Imunitu (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Procentuální šance, že je hráč přirozeně imunní vůči infekci Knox.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Imunní Hráči Mají Horečku Knox",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Pokud je zapnuto, imunní postavy procházejí průběhem horečky Knox, ale zotaví se před zombifikací. Pokud je vypnuto, imunní hráči vůbec neonemocní.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Zotavení z Horečky Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Zotavení z Horečky Knox (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Pokud je horečka Knox zapnutá, odstraňte infekci Knox až tehdy, když zdraví postavy dosáhne tohoto procenta."
 }

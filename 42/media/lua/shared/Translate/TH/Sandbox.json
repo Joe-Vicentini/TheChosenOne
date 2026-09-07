@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "ผู้ถูกเลือก",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "โอกาสมีภูมิคุ้มกัน (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "โอกาสมีภูมิคุ้มกัน (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "เปอร์เซ็นต์โอกาสที่ผู้เล่นจะมีภูมิคุ้มกันต่อการติดเชื้อ Knox โดยธรรมชาติ",
   "Sandbox_TheChosenOne_EnableKnoxFever": "ผู้เล่นที่มีภูมิคุ้มกันจะมีไข้ Knox",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "หากเปิดใช้งาน ตัวละครที่มีภูมิคุ้มกันจะมีอาการไข้ Knox ที่รุนแรงขึ้น แต่จะฟื้นตัวก่อนกลายเป็นซอมบี้ หากปิดใช้งาน ผู้เล่นที่มีภูมิคุ้มกันจะไม่ป่วยเลย",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "การฟื้นตัวจากไข้ Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "การฟื้นตัวจากไข้ Knox (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "เมื่อเปิดใช้งานไข้ Knox ให้ล้างการติดเชื้อ Knox เฉพาะเมื่อพลังชีวิตของตัวละครถึงเปอร์เซ็นต์นี้"
 }

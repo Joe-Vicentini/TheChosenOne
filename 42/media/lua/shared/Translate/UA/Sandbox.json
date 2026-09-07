@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "Обраний",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Шанс Імунітету (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Шанс Імунітету (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Відсоткова ймовірність того, що гравець має природний імунітет до інфекції Нокс.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Гравці з Імунітетом Мають Лихоманку Нокс",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Якщо ввімкнено, у персонажів з імунітетом прогресує лихоманка Нокс, але вони одужують до перетворення на зомбі. Якщо вимкнено, гравці з імунітетом взагалі не хворіють.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Одужання після Лихоманки Нокс (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Одужання після Лихоманки Нокс (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Коли лихоманка Нокс увімкнена, видаляйте інфекцію Нокс лише тоді, коли здоров'я персонажа досягне цього відсотка."
 }

@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "De Uitverkorene",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Kans op Immuniteit (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Kans op Immuniteit (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Procentuele kans dat de speler van nature immuun is voor de Knox-infectie.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Immune Spelers Krijgen Knox-koorts",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Als dit is ingeschakeld, doorlopen immune personages de voortgang van Knox-koorts, maar herstellen ze vóór zombificatie. Als dit is uitgeschakeld, worden immune spelers helemaal niet ziek.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Herstel van Knox-koorts (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Herstel van Knox-koorts (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Wanneer Knox-koorts is ingeschakeld, verwijder de Knox-infectie pas wanneer de gezondheid van het personage dit percentage bereikt."
 }

@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "A Kiválasztott",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Immunitás Esélye (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Immunitás Esélye (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Annak százalékos esélye, hogy a játékos természetes immunitással rendelkezik a Knox-fertőzéssel szemben.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Az Immunis Játékosok Knox-lázat Kapnak",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Ha engedélyezve van, az immunis karaktereknél végigmegy a Knox-láz lefolyása, de a zombivá válás előtt felépülnek. Ha ki van kapcsolva, az immunis játékosok egyáltalán nem betegszenek meg.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Felépülés a Knox-lázból (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Felépülés a Knox-lázból (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Ha a Knox-láz engedélyezve van, csak akkor szüntesse meg a Knox-fertőzést, amikor a karakter életereje eléri ezt a százalékot."
 }

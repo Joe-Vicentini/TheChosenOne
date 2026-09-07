@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "Il Prescelto",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Probabilità di Immunità (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Probabilità di Immunità (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Probabilità percentuale che il giocatore sia naturalmente immune all'infezione Knox.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "I Giocatori Immuni Hanno la Febbre Knox",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Se attivato, i personaggi immuni subiscono la progressione della febbre Knox, ma guariscono prima della zombificazione. Se disattivato, i giocatori immuni non si ammalano affatto.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Guarigione dalla Febbre Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Guarigione dalla Febbre Knox (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Quando la febbre Knox è attiva, elimina l'infezione Knox solo quando la salute del personaggio raggiunge questa percentuale."
 }

@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "L'Escollit",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Probabilitat d'Immunitat (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Probabilitat d'Immunitat (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Percentatge de probabilitat que el jugador sigui naturalment immune a la infecció Knox.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Els Jugadors Immunes Tenen Febre Knox",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Si està activat, els personatges immunes experimenten la progressió de la febre Knox, però es recuperen abans de la zombificació. Si està desactivat, els jugadors immunes no es posen malalts gens.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Recuperació de la Febre Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Recuperació de la Febre Knox (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Quan la febre Knox està activada, elimina la infecció Knox només quan la salut del personatge arribi a aquest percentatge."
 }

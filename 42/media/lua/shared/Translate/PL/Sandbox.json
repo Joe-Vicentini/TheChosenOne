@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "Wybraniec",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Szansa na Odporność (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "Szansa na Odporność (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "Procentowa szansa, że gracz jest naturalnie odporny na infekcję Knox.",
   "Sandbox_TheChosenOne_EnableKnoxFever": "Odporni Gracze Mają Gorączkę Knox",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "Po włączeniu odporne postacie przechodzą rozwój gorączki Knox, ale wracają do zdrowia przed zombifikacją. Po wyłączeniu odporni gracze w ogóle nie chorują.",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Powrót do Zdrowia po Gorączce Knox (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "Powrót do Zdrowia po Gorączce Knox (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "Gdy gorączka Knox jest włączona, usuń infekcję Knox dopiero wtedy, gdy zdrowie postaci osiągnie ten procent."
 }

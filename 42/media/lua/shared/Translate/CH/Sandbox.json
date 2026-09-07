@@ -1,9 +1,9 @@
 {
   "Sandbox_TheChosenOne": "天選之人",
-  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "免疫機率 (%)",
+  "Sandbox_TheChosenOne_KnoxImmunityChancePercent": "免疫機率 (%%)",
   "Sandbox_TheChosenOne_KnoxImmunityChancePercent_tooltip": "玩家天生對諾克斯感染免疫的機率百分比。",
   "Sandbox_TheChosenOne_EnableKnoxFever": "免疫玩家會出現諾克斯熱",
   "Sandbox_TheChosenOne_EnableKnoxFever_tooltip": "啟用後，免疫角色會經歷諾克斯熱的惡化過程，但會在殭屍化前康復。停用後，免疫玩家完全不會生病。",
-  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "諾克斯熱康復 (%)",
+  "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent": "諾克斯熱康復 (%%)",
   "Sandbox_TheChosenOne_KnoxMaxHealthThresholdPercent_tooltip": "啟用諾克斯熱時，只有當角色生命值達到此百分比時才清除諾克斯感染。"
 }
